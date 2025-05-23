@@ -71,6 +71,4 @@ A smart and simple expense tracker that helps users manage their daily spending 
 
 ### 🎥 App Preview
 
-![ExpenseMate Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lkdnp2enFzNWl5aWJ0MWR3dXdqbTJlZjU2ZXBubWZ5Z2dwb2c1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif)
-
-🔗 [View on GitHub](https://github.com/Rohitt55/expensemateapp)
+🔗 [View on GitHub](https://github.com/Rohitt55/expensemateapp/tree/ExpenseMate_App_Final_version)
