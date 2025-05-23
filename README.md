@@ -49,3 +49,28 @@ Dart     ████████████████░░░░░░░�
 HTML     █████████░░░░░░░░░░░░░░░░ 20.00%
 CSS      ██████░░░░░░░░░░░░░░░░░░ 16.00%
 ```
+
+---
+
+## 💼 Featured Project: ExpenseMate App
+
+A smart and simple expense tracker that helps users manage their daily spending efficiently — built with **Flutter** and **SQLite**.
+
+### 🛠️ Tech Stack
+- Flutter
+- SQLite (offline storage)
+- Firebase (optional for cloud features)
+- Provider (state management)
+
+### ✨ Key Features
+- 📊 Visual budget analysis
+- 💸 Add and manage expenses easily
+- 🔍 Filter by category or date
+- 🌐 Supports Bangla & English
+- 📱 Responsive UI for all screens
+
+### 🎥 App Preview
+
+![ExpenseMate Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lkdnp2enFzNWl5aWJ0MWR3dXdqbTJlZjU2ZXBubWZ5Z2dwb2c1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif)
+
+🔗 [View on GitHub](https://github.com/Rohitt55/expensemateapp)
