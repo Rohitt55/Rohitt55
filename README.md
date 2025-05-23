@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Rohit Sarkar</h1>
 <h3 align="center">A passionate Backend & Mobile App Developer</h3>
 
@@ -13,7 +14,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💬 Ask me about **PHP, Laravel, Flutter**
+- 💬 Ask me about **SQLite, Firebase, Flutter**
 - 📫 How to reach me: **rohitt55311@gmail.com**
 - 📱 WhatsApp: **01615755420**
 
@@ -22,10 +23,8 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
@@ -36,7 +35,11 @@
 
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+```text
+Dart     ████████████████░░░░░░░░░░ 64.00%
+HTML     █████████░░░░░░░░░░░░░░░░ 20.00%
+CSS      ██████░░░░░░░░░░░░░░░░░░ 16.00%
+```
 
 ---
 
@@ -55,3 +58,12 @@
 ### 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohitsarkar&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🏆 GitHub Achievements
+
+![Achievement: Ultra Committer](https://img.shields.io/badge/Commits-950+-brightgreen)
+![Achievement: God Repo Creator](https://img.shields.io/badge/Repositories-30+-yellow)
+![Achievement: High Puller](https://img.shields.io/badge/Pull%20Requests-37-blue)
+![Achievement: You are a Star](https://img.shields.io/badge/Stars-42-blueviolet)
