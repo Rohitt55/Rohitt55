@@ -49,21 +49,3 @@ Dart     ████████████████░░░░░░░�
 HTML     █████████░░░░░░░░░░░░░░░░ 20.00%
 CSS      ██████░░░░░░░░░░░░░░░░░░ 16.00%
 ```
-
----
-
-### 📈 GitHub Stats
-
-[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitsarkar&show_icons=true&theme=radical)](https://github.com/rohitsarkar/github-readme-stats)
-
----
-
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohitsarkar&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohitsarkar&theme=radical&hide_border=true)](https://git.io/streak-stats)
