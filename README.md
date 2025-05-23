@@ -12,6 +12,12 @@
 </p>
 
 ---
+## 🏆 GitHub Achievements
+
+![Achievement: Ultra Committer](https://img.shields.io/badge/Commits-950+-brightgreen)
+![Achievement: God Repo Creator](https://img.shields.io/badge/Repositories-30+-yellow)
+![Achievement: High Puller](https://img.shields.io/badge/Pull%20Requests-37-blue)
+![Achievement: You are a Star](https://img.shields.io/badge/Stars-42-blueviolet)
 
 ### 🧑‍💻 About Me
 - 💬 Ask me about **SQLite, Firebase, Flutter**
@@ -61,9 +67,4 @@ CSS      ██████░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🏆 GitHub Achievements
 
-![Achievement: Ultra Committer](https://img.shields.io/badge/Commits-950+-brightgreen)
-![Achievement: God Repo Creator](https://img.shields.io/badge/Repositories-30+-yellow)
-![Achievement: High Puller](https://img.shields.io/badge/Pull%20Requests-37-blue)
-![Achievement: You are a Star](https://img.shields.io/badge/Stars-42-blueviolet)
