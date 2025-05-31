@@ -72,3 +72,14 @@ A smart and simple expense tracker that helps users manage their daily spending 
 ### 🎥 App Preview
 
 🔗 [View on GitHub](https://github.com/Rohitt55/expensemateapp/tree/ExpenseMate_App_Final_version)
+
+---
+
+### 🎯 Try ExpenseMate App
+
+📱 **Android Tester Link**  
+👉 [Join Closed Testing on Play Store](https://play.google.com/apps/testing/com.rohitsarkar.expensemate)
+
+🌐 **Web Preview (Play Store)**  
+👉 [ExpenseMate App on Play Store](https://play.google.com/store/apps/details?id=com.rohitsarkar.expensemate)
+
