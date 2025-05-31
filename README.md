@@ -69,17 +69,17 @@ A smart and simple expense tracker that helps users manage their daily spending 
 - 🌐 Supports Bangla & English
 - 📱 Responsive UI for all screens
 
-### 🎥 App Preview
-
-🔗 [View on GitHub](https://github.com/Rohitt55/expensemateapp/tree/ExpenseMate_App_Final_version)
-
 ---
 
-### 🎯 Try ExpenseMate App
+### 🧪 Become a Tester for ExpenseMate
 
-📱 **Android Tester Link**  
-👉 [Join Closed Testing on Play Store](https://play.google.com/apps/testing/com.rohitsarkar.expensemate)
+📢 We are currently running a **closed testing** phase for ExpenseMate.
 
-🌐 **Web Preview (Play Store)**  
-👉 [ExpenseMate App on Play Store](https://play.google.com/store/apps/details?id=com.rohitsarkar.expensemate)
+✅ To participate:
+1. **Join our Tester Group** 👉 [Join Google Group](https://groups.google.com/u/2/g/expensemate)
+2. **Accept the Testing Invite** 👉 [Join Testing on Web](https://play.google.com/apps/testing/com.rohitsarkar.expensemate)
+
+📥 Once accepted, you’ll be able to **download ExpenseMate** from:
+👉 [Google Play Store](https://play.google.com/store/apps/details?id=com.rohitsarkar.expensemate)
+
 
