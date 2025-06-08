@@ -66,7 +66,7 @@ A smart and simple expense tracker that helps users manage their daily spending 
 - 📊 Visual budget analysis
 - 💸 Add and manage expenses easily
 - 🔍 Filter by category or date
-- 🌐 Supports English
+- 🌐 Supports English and Bangla.
 - 📱 Responsive UI for all screens
 
 ---
